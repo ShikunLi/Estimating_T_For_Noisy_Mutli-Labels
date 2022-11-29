@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <a href="https://openreview.net/pdf?id=GwXrGy_vc8m" target="_blank"> Estimating Noise Transition Matrix with Label Correlations for Noisy Multi-Label Learning </a> - Official PyTorch Code (NeurIPS 2022)
 
 ### Abstract:
@@ -50,3 +51,8 @@ If you find the code useful in your research, please consider citing our paper:
 Note: Our implementation uses parts of some public codes [1-2].
 [1] Implementations of "Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning" https://github.com/a5507203/dual-t-reducing-estimation-error-for-transition-matrix-in-label-noise-learning
 [2] Implementations of "Classification with Noisy Labels by Importance Reweighting" https://github.com/xiaoboxia/Classification-with-noisy-labels-by-importance-reweighting 
+=======
+# Estimating Noise Transition Matrix with Label Correlations for Noisy Multi-Label Learning (NeurIPS 2022)
+
+Source codes are coming soon!
+>>>>>>> 0ec1bd0e25229aba60a718aad9374fcdfc93470e
