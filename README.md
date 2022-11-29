@@ -7,7 +7,7 @@ In label-noise learning, the noise transition matrix, bridging the class posteri
 * Python 3.8.10
 * Pytorch 1.8.0 (torchvision 0.9.0)
 * Numpy 1.19.5
-* scikit-learn 1.0.1
+* Scikit-learn 1.0.1
 
 
 ### Running the code:
