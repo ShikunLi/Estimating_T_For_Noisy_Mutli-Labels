@@ -38,7 +38,7 @@ The arguments for running the code are as follows:
 If you find the code useful in your research, please consider citing our paper:
 
 ```
- @InProceedings{Li2022TMLC,
+ @InProceedings{Li2022MLT,
   title = {Estimating Noise Transition Matrix with Label Correlations for Noisy Multi-Label Learning},
   authors = {Shikun Li and Xiaobo Xia and Hansong Zhang and Yibing Zhan and Shiming Ge and Tongliang Liu},
   year={2022},
